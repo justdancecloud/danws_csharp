@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+.vs/
+CLAUDE.md
+*.md.bak
+.idea/
+*.suo
+*.ncrunchsolution
+*.DotSettings.user
